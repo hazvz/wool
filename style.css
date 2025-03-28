@@ -24,11 +24,11 @@ header {
     border-radius: 5px;
 }
 
-#header-logo {
+/* #header-logo {
     font-weight: 700;
     color: #F9FAF8;
     font-size: 24px;
-}
+} */
 
 .header {
     display: flex;
